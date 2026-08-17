@@ -1,4 +1,4 @@
-# Effect of Policy Actions on Opioid Prescriptions and Overdose Fatalities
+# Causal Impact & Experiment Design
 
 #### Duke University (MIDS) - Fall 2022
 
